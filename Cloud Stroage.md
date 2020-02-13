@@ -17,17 +17,17 @@ In this task, we will create a new storage account.
 
 3. On the **Basics** tab of the **Create storage account** blade, fill in the following information (replace **xxxx** in the name of the storage account with letters and digits such that the name is globally unique). Leave the defaults for everything else.
 
-    | Setting | Value | 
-    | --- | --- |
-    | Subscription | **Choose your subscription** |
-    | Resource group | **myRGStorage** (create new) |
-    | Storage account name | **storageaccountxxxx** |
-    | Location | **(US) East US**  |
-    | Performance | **Standard** |
-    | Account kind | **StorageV2 (general purpose v2)** |
-    | Replication | **Locally redundant storage (LRS)** |
-    | Access tier (default) | **Hot** |
-    | | |
+        | Setting | Value | 
+        | --- | --- |
+        | Subscription | **Choose your subscription** |
+        | Resource group | **myRGStorage** (create new) |
+        | Storage account name | **storageaccountxxxx** |
+        | Location | **(US) East US**  |
+        | Performance | **Standard** |
+        | Account kind | **StorageV2 (general purpose v2)** |
+        | Replication | **Locally redundant storage (LRS)** |
+        | Access tier (default) | **Hot** |
+        | | |
 
 5. Click **Review + Create** to review your storage account settings and allow Azure to validate the configuration. 
 
